@@ -33,7 +33,6 @@ public class Tic implements ActionListener, KeyListener {
 
     //public Ball score1;
     //  public Ball score2;
-    // jhjhjhjhjh
 
     public Tic() {
         JFrame j = new JFrame("Tic");
